@@ -1,0 +1,7 @@
+*Linguagem de Programação*
+
+Algoritmo é uma sequencia finita de passos logicamente ordenados para a obtenção de uma solução para um problema específico
+
+Constantes - int, float, bool e string
+
+Operadores lógicos
