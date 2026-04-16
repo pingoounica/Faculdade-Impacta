@@ -1,0 +1,50 @@
+p {
+    font-weight: bold;
+    font-weight: italic;
+    font-family: Arial, "Times new roman", sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    text-decoration: none ;
+    text-transform: lowercase;
+
+    text-align: center;
+    text-indent: 5%;
+
+    letter-spacing: 4px;
+    word-spacing: 10px;
+    line-height: 50px;
+
+    color: rgb(203, 209, 209);
+    background-color: black;
+
+}
+
+h1{
+    color: brown;
+}
+
+p#principal {
+    color: red;
+}
+
+.princial {
+    font-style: italic;
+}
+
+.urgente{
+    color:yellowgreen
+}
+
+a[href*='impacta'] {
+    text-decoration: none;
+    color: rgb(61, 55, 66);
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+a:hover{
+    text-decoration: underline;
+}
