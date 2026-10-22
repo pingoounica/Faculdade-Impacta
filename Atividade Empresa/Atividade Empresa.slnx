@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Empresa.Db/Empresa.Db.csproj" Id="a0cf6fc4-f468-4bba-9e5c-dc60075d2586" />
+  <Project Path="Empresa.Models/Empresa.Models.csproj" Id="c15a4f43-d9e2-4df0-8fa9-84ed6e4f4f1f" />
+  <Project Path="Empresa.UI.Web/Empresa.UI.Web.csproj" Id="918aa342-8fef-4b2e-a840-38fcdc995992" />
+  <Project Path="Empresa.UI.Windows/Empresa.UI.Windows.csproj" />
+</Solution>
